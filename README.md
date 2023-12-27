@@ -1,5 +1,6 @@
-# Data Science Portfolio
+# Stroke Prediction Dataset.
 
-## Welcome to my portfolio, I'm Chris. I'm currently working on a stroke prediction dataset. You can find my Jupyter notebook, dataset and ETL process within my portfolio. 
+![Alt Text](https://images.newindianexpress.com/uploads/user/imagelibrary/2019/8/20/w900X450/ANALYSING.jpg?w=400&dpr=2.6)
 
-## Enjoy, happy reading! 
+#### Welcome to my portfolio, I'm Chris. You can find my Jupyter notebook for Stroke Prediction, dataset and ETL process within my portfolio. 
+
