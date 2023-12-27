@@ -7,6 +7,6 @@
 
 I have undertaken two very exciting projects recently both within the healthcare sector. 
 
+[Stroke Prediction Dataset](https://github.com/CTrouton/DataSciencePortfolio/blob/DataSciencePortfolio/StrokePredictionNotebook.ipynb)
 
-
-![Link Text](relative/path/to/file.md)
+[Right to Reside - bed blocking](https://github.com/CTrouton/DataSciencePortfolio/blob/DataSciencePortfolio/RightToReside)
