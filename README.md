@@ -7,4 +7,4 @@
 
 I have undertaken a very exciting project recently within the healthcare sector. 
 
-[Stroke Prediction Dataset](https://github.com/CTrouton/Stroke-Prediction-Dataset/blob/DataSciencePortfolio/DataScienceProject.ipynb)
+[Stroke Prediction Dataset](https://github.com/CTrouton/Stroke-Prediction-Dataset/blob/DataSciencePortfolio/DataScienceProject_Notebook.ipynb)
