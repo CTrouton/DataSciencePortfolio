@@ -5,8 +5,6 @@
 #### Welcome to my portfolio. I have a passion for investigating and analysing data. With over 9 years in the data analysis field, I am currently pursuing a degree in this area to further my skills and knowledge. 
 
 
-I have undertaken two very exciting projects recently both within the healthcare sector. 
+I have undertaken a very exciting project recently within the healthcare sector. 
 
 [Stroke Prediction Dataset](https://github.com/CTrouton/DataSciencePortfolio/blob/DataSciencePortfolio/StrokePredictionNotebook.ipynb)
-
-[Right to Reside - bed blocking](https://github.com/CTrouton/DataSciencePortfolio/blob/DataSciencePortfolio/RightToReside)
